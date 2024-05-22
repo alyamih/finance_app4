@@ -193,7 +193,7 @@ class _HomePageState extends State<HomePage> {
                                         fontWeight: FontWeight.w500),
                                   ),
                                   const Text(
-                                    'Add your expenses to track your history',
+                                    'Add your expenses',
                                     textAlign: TextAlign.center,
                                     style: TextStyle(
                                         fontSize: 16,
